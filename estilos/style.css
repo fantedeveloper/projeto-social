@@ -16,6 +16,7 @@ html, body {
 main {
     height: 100vh;
     position: relative;
+    padding: 5px;
 }
 
 #telefone {
